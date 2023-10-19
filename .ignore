@@ -26,6 +26,7 @@ xcuserdata
 
 # Exclude Pod Files
 Pods
+images/*
 
  
 #    NB: also, whitelist the default ones, some projects need to use these
